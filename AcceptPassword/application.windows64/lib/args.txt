@@ -1,0 +1,3 @@
+
+AcceptPassword
+AcceptPassword.jar,core.jar,objloader.jar,JavaLib.jar,gluegen-rt.jar,jogl.jar,opengl.jar
